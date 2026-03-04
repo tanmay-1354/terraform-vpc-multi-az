@@ -80,8 +80,10 @@
 │  │  ┌────────────────────────────────────────────────────────────────────────┐ │  │
 │  │  │  {                                                                     │ │  │
 │  │  │    "username": "admin",                                               │ │  │
-│  │  │    "password": "xK9mP2qL8vN5rT3wQ1sU6yZ4aB7cD0eF"                   │ │  │
+│  │  │    "password": "[RANDOMLY GENERATED - 16 CHARS WITH SPECIAL CHARS]"  │ │  │
 │  │  │  }                                                                     │ │  │
+│  │  │                                                                        │ │  │
+│  │  │  ⚠️  See RETRIEVE_CREDENTIALS.md for how to access the password      │ │  │
 │  │  │                                                                        │ │  │
 │  │  │  Encryption: AWS KMS (default)                                        │ │  │
 │  │  │  Recovery Window: 7 days                                              │ │  │
